@@ -32,8 +32,8 @@ Run using - http://localhost:8080/swagger-ui.html
 
 ***2) Implemented LOGGER*** class and objects
 
-INFO – Now, logs are *not* shown in IDE’s console but are stored in the named file *app.log*
-ERROR - Errors are displayed on Site and also stored in error.log
-WARN - warn.log
-DEBUG - set "logging.level.com{packagename}=debug" in application.properties
-TRACE - trace.log
+1) INFO – Now, logs are *not* shown in IDE’s console but are stored in the named file *app.log*
+2) ERROR - Errors are displayed on Site and also stored in error.log
+3) WARN - warn.log
+4) DEBUG - set "logging.level.com{packagename}=debug" in application.properties
+5) TRACE - trace.log
