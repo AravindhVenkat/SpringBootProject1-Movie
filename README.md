@@ -1,5 +1,6 @@
 # SpringBootProjectServerSide-Movie
 Movie based ***Spring Boot project*** made on **Spring Tool Suite 4** (STS 4)
+
 **Run using - http://localhost:8080/movies**
 
 ### Specifications
