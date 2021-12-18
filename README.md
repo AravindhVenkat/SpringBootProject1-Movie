@@ -8,9 +8,9 @@ Created Spring Starter Project with dependencies auto-generated on *pom.xml* for
 2) Spring Data JPA
 3) PostgreSQL Driver
 
-Used **localhost** server from **PostgreSQL & pgAdmin4**
+**localhost** server from **PostgreSQL & pgAdmin4**
 
-**Apache Tomcat** - Default **Port 8080** - No Configuration
+***Apache Tomcat*** - Default **Port 8080** - No Configuration
 
 ***Postman API*** tool used for **GET PUT POST DELETE** by using **@GetMapping, @PutMapping, @PostMapping, @DeleteMapping** etc
 
