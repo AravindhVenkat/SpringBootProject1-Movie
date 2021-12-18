@@ -23,3 +23,17 @@ Created **Spring Starter Project** with dependencies auto-generated on *pom.xml*
 5) Repository - MovieRepository
 6) Response - Class with HttpStatus, URL, statusCode, statusName
 7) Services – ServiceClass & ServiceClassInterface to perform *methods* - This is **@Autowired in MyRestController**
+
+### Implementations
+
+***1) Implemented SWAGGER-UI***
+
+Run using - http://localhost:8080/swagger-ui.html
+
+***2) Implemented LOGGER*** class and objects
+
+INFO – Now, logs are *not* shown in IDE’s console but are stored in the named file *app.log*
+ERROR - Errors are displayed on Site and also stored in error.log
+WARN - warn.log
+DEBUG - set "logging.level.com{packagename}=debug" in application.properties
+TRACE - trace.log
